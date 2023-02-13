@@ -59,7 +59,7 @@ O bootcamp da DIO com parceria com Banco PAN, irá disponibilizar 5 mil bolsas d
 
   - Primeiros passos com SQL
   - Introdução ao MongoDB e Bancos de Dados NoSQL
-  - Boas práticas com DynamoDB
+  - >PROJETO - Boas práticas com DynamoDB
   
 <br>
 
