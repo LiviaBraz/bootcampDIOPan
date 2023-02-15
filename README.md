@@ -17,7 +17,7 @@ O bootcamp da DIO com parceria com Banco PAN, irá disponibilizar 5 mil bolsas d
 <h3> 2 - Princípios de Desenvolvimento de Software </h3>
 
   - Introdução à Programação e Pensamento Computacional ✅
-  - Trabalhando em equipes ágeis
+  - Trabalhando em equipes ágeis ✅
   - Introdução ao Git e Github ✅
 
 <br>
