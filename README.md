@@ -24,7 +24,7 @@ O bootcamp da DIO com parceria com Banco PAN, irá disponibilizar 5 mil bolsas d
 
 <h3> 3 - Conhecendo a Linguagem de Programação Java </h3>
 
-  - Dominando IDEs Java
+  - Dominando IDEs Java ✅
   - Aprendendo a sintaxe Java
   - Lógica Condicional e Controle de Fluxos em Java
   - Estruturas de repetição e arrays em Java
